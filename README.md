@@ -1,2 +1,2 @@
 # learnPhp
-my first repo 
+That is my first Git repository.
